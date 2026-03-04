@@ -204,5 +204,13 @@ Future Software Engineer
 Currently learning **Java + DSA**
 
 ---
+## 👀 Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=gandikotaharish&label=Profile%20Views&color=blue&style=for-the-badge"/>
+
+</p>
+---
 
 > "First solve the problem, then write the code."
