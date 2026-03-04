@@ -110,7 +110,7 @@ public class GCD {
 
 | Topic | Status |
 |------|------|
-| Arrays | [] In Progress |
+| Arrays | [x] In Progress |
 | Strings | [] In Progress |
 | Linked List | [] Coming Soon |
 | Stack | [] Coming Soon |
@@ -161,8 +161,8 @@ If you find this repository helpful:
 ---
 
 ## My intersts 
--Full Stack Web development
--Cloud computing
--AI/ML 
--System design
+Full Stack Web development
+Cloud computing
+AI/ML 
+System design
 > “First, solve the problem. Then, write the code.”
