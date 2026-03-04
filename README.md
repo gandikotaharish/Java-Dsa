@@ -1,38 +1,42 @@
-# 🚀 Java + Data Structures & Algorithms
+# 🚀 Java Data Structures & Algorithms
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+DSA+Practice;Consistent+Coding+Journey;Interview+Preparation;Problem+Solving+Skills&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Java+DSA+Practice;Solving+Problems+Daily;Future+Software+Engineer;Mastering+Data+Structures+and+Algorithms&center=true&width=500&height=45">
 </p>
 
 ---
 
-## 📚 About This Repository
+## 👨‍💻 About This Repository
 
-This repository contains my **Data Structures and Algorithms practice in Java**.
+This repository contains my **Data Structures and Algorithms journey using Java**.
 
-The purpose of this repository is to improve:
+I use this repository to:
 
-- 🧠 Problem Solving Skills
-- 💻 Coding Efficiency
-- 🎯 Interview Preparation
-- 🚀 Software Development Fundamentals
+- Practice coding daily
+- Improve problem-solving skills
+- Prepare for technical interviews
+- Build strong foundations in algorithms
 
-I regularly solve problems from coding platforms and push them here to **track my progress and maintain consistency.**
+Problems are solved from platforms like:
 
----
-
-## 🛠 Tech Stack
-
-| Technology | Usage |
-|-----------|------|
-| ☕ Java | Programming Language |
-| 💻 VS Code / IntelliJ | Development |
-| 🌐 GitHub | Version Control |
-| 📚 LeetCode / GFG | Problem Practice |
+- LeetCode
+- GeeksforGeeks
+- HackerRank
+- Standard DSA sheets
 
 ---
 
-## 📂 Repository Structure
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,git,github,vscode" />
+
+</p>
+
+---
+
+# 📂 Repository Structure
 
 ```
 Java-DSA/
@@ -52,16 +56,10 @@ Java-DSA/
 
 ---
 
-## 🧠 Topics Covered
+# 🧠 Topics Covered
 
-### 🔹 Programming Basics
-- Variables
-- Data Types
-- Loops
-- Functions
-- Recursion
+## Data Structures
 
-### 🔹 Data Structures
 - Arrays
 - Strings
 - Linked Lists
@@ -69,13 +67,13 @@ Java-DSA/
 - Queues
 - HashMaps
 - Trees
-- Binary Search Trees
 - Graphs
 - Heaps
 
-### 🔹 Algorithms
-- Searching
-- Sorting
+## Algorithms
+
+- Binary Search
+- Sorting Algorithms
 - Recursion
 - Backtracking
 - Greedy Algorithms
@@ -84,12 +82,12 @@ Java-DSA/
 
 ---
 
-## 💻 Sample Code
+# 💻 Example Code
 
 ```java
 public class GCD {
 
-    public static int gcd(int a, int b) {
+    public static int gcd(int a, int b){
         while(b != 0){
             int temp = b;
             b = a % b;
@@ -106,63 +104,90 @@ public class GCD {
 
 ---
 
-## 📈 Learning Progress
+# 📈 Progress Tracker
 
 | Topic | Status |
 |------|------|
-| Arrays | [x] In Progress |
-| Strings | [] In Progress |
-| Linked List | [] Coming Soon |
-| Stack | [] Coming Soon |
-| Queue | [] Coming Soon |
-| Trees | [] Coming Soon |
-| Graphs | [] Coming Soon |
-| Dynamic Programming | [] Coming Soon |
+| Arrays | ✅ In Progress |
+| Strings | ✅ In Progress |
+| Linked List | ⏳ Coming Soon |
+| Stack | ⏳ Coming Soon |
+| Queue | ⏳ Coming Soon |
+| Trees | ⏳ Coming Soon |
+| Graphs | ⏳ Coming Soon |
+| Dynamic Programming | ⏳ Coming Soon |
 
 ---
 
-## 🔥 Goals
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📊 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🎯 Goals
 
 - Solve **500+ DSA problems**
-- Master **Data Structures**
-- Improve **algorithmic thinking**
-- Prepare for **software engineering interviews**
+- Master **core data structures**
+- Become **interview ready**
+- Build strong problem-solving skills
 
 ---
 
-## 📅 Daily Coding Routine
+# 📅 Daily Coding Rule
 
-✔ Solve **1–3 DSA problems daily**  
-✔ Write **clean and optimized Java code**  
+✔ Solve at least **1–3 problems daily**  
+✔ Write **clean Java code**  
 ✔ Push solutions to **GitHub**
 
-Consistency builds mastery.
+Consistency beats motivation.
 
 ---
 
-## ⭐ Support
+# ⭐ Support
 
-If you find this repository helpful:
+If you like this repository:
 
-⭐ Star this repository  
-🍴 Fork the repository  
+⭐ Star this repo  
+🍴 Fork this repo  
 📢 Share with other learners
 
 ---
 
-## 👨‍💻 Author
+# 👨‍💻 Author
 
-**Harish**
+Harish
 
-🎓 BTech Student  
-💻 Aspiring Software Engineer  
-🚀 Currently learning **Java + DSA**
+BTech 2nd year Student  
+Future Software Engineer  
+Currently learning **Java + DSA**
 
 ---
 
-## My intersts 
-Full Stack Web development
-Cloud computing
-AI/ML 
-System design
-> “First, solve the problem. Then, write the code.”
+> "First solve the problem, then write the code."
